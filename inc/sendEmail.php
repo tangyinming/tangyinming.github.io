@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'ymtangab@gmail.com';
+$siteOwnersEmail = 'wordchainqqpartner@gmail.com';
 
 
 if($_POST) {
